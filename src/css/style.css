@@ -217,7 +217,7 @@ nav a{
     border-radius: 12px;
 
     padding: 25px;
-
+    gap: 25px;
     text-align: center;
 }
 
